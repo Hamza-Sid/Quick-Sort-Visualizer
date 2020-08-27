@@ -1,4 +1,4 @@
-# Quick-Sort-Visualizer
+# Sorting-Visualizer
 
 Authors: Hamza Siddiqui
 
